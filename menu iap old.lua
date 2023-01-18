@@ -239,11 +239,11 @@ iapc = {
 	":SNC62",
  },
  {
-	"Aurora Star Horn",
+	"Tiara We Can Touch",
 	":SNC63",
  },
  {
-	"Runaway Pack",
+	"Runaway Hair",
 	":SNC64",
  },
  {
@@ -251,20 +251,44 @@ iapc = {
 	":SNC65",
  },
  {
-	"Aurora Cape",
+	"To The Love Outfit",
 	":SNC66",
  },
  {
-	"Orange Dress",
+	"Giving In Cape",
 	":SNC67",
  },
  {
-	"Hermit Fluffy Cape",
+	"Wings of Aurora",
 	":SNC68",
  },
  {
-	"Skyball Set",
+	"Runaway Outfit",
 	":SNC69",
+},
+ {
+	"Tournament Skyball Set",
+	":SNC73",
+ },
+ {
+	"Enchanted Umbrella",
+	":SNC74",
+ },
+ {
+	"Muralist's Smock",
+	":SNC75",
+ },
+ {
+	"Cozy Hermit Cape",
+	":SNC76",
+ },
+ {
+	"Serendipitous Scepter",
+	":SNC77",
+ },
+ {
+	"Classy Cravat",
+	":SNC78",
  },
 }
 
@@ -355,8 +379,7 @@ function IAP1()
 end
 
 print[[
-	
-	By Okarin#4708
+ PDI
 	
 	]]
 
